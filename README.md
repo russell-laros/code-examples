@@ -1,6 +1,6 @@
 # code-examples
 
-This folder contains past homeworks and code examples from my studies. It shows my use of various descriptive and predictive models. Below is a description of each of the files contents:
+This repository contains past homeworks and code examples from my studies. It shows my use of various descriptive and predictive models. Below is a description of each of the files contents:
 
 **ExploratoryAnalysis.ipynb** - Cleaning and preprocessing data, imputing/removing missing values, basic descriptive statistics, visualization of findings
 
